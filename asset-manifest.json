@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/Chatterbee/static/css/main.53a6440e.css",
+    "main.js": "/Chatterbee/static/js/main.1e6fe4ea.js",
+    "static/js/453.8ab44547.chunk.js": "/Chatterbee/static/js/453.8ab44547.chunk.js",
+    "index.html": "/Chatterbee/index.html",
+    "main.53a6440e.css.map": "/Chatterbee/static/css/main.53a6440e.css.map",
+    "main.1e6fe4ea.js.map": "/Chatterbee/static/js/main.1e6fe4ea.js.map",
+    "453.8ab44547.chunk.js.map": "/Chatterbee/static/js/453.8ab44547.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.53a6440e.css",
+    "static/js/main.1e6fe4ea.js"
+  ]
+}
